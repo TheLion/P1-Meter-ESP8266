@@ -8,13 +8,13 @@
 #include "CRC16.h"
 
 //===Change values from here===
-const char* ssid = "WIFISSID";
-const char* password = "PASSWORD";
+const char* ssid = "iot.fourpets.net";
+const char* password = "x9pEERpbjQ3w56W7";
 const char* hostName = "ESPP1Meter";
-const char* domoticzIP = "192.168.1.35";
-const int domoticzPort = 8090;
-const int domoticzGasIdx = 291;
-const int domoticzEneryIdx = 294;
+const char* domoticzIP = "192.168.206.104";
+const int domoticzPort = 8080;
+const int domoticzGasIdx = 214;
+const int domoticzEneryIdx = 210;
 const bool outputOnSerial = true;
 //===Change values to here===
 
